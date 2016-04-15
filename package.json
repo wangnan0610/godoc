@@ -1,0 +1,23 @@
+{
+  "name": "godoc",
+  "version": "1.0.0",
+  "description": "命令行迅速打开对应的doc文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wangnan0610/godoc.git"
+  },
+  "keywords": [
+    "browser",
+    "doc"
+  ],
+  "author": "wangnan0610",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangnan0610/godoc/issues"
+  },
+  "homepage": "https://github.com/wangnan0610/godoc#readme"
+}
