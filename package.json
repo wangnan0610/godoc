@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/wangnan0610/godoc/issues"
   },
-  "homepage": "https://github.com/wangnan0610/godoc#readme"
+  "homepage": "https://github.com/wangnan0610/godoc#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "opener": "^1.4.1",
+    "yargs": "^4.6.0"
+  }
 }
